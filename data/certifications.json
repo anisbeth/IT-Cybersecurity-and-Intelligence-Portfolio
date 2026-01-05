@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CompTIA Security+ (SY0-701)",
+    "issuer": "CompTIA",
+    "issued": "2025-03-01",
+    "credentialUrl": "https://example.com/your-badge",
+    "file": "security-plus.pdf"
+  },
+  {
+    "name": "AWS Certified Cloud Practitioner",
+    "issuer": "Amazon Web Services",
+    "issued": "2024-11-15",
+    "credentialUrl": "https://example.com/aws-badge",
+    "file": "aws-ccp.pdf"
+  }
+]
