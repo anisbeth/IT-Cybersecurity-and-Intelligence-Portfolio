@@ -1,4 +1,4 @@
-type Props = { title: string; platform: 'youtube'|'vimeo'; id: string; description?: string }
+type Props = { title: string; platform: string; id: string; description?: string }
 export default function VideoCard({title, platform, id, description}: Props){
   const src = platform === 'youtube' ? `https://www.youtube.com/embed/${id}` : `https://player.vimeo.com/video/${id}`
   return (
