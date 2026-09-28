@@ -6,7 +6,7 @@ supporting federal national security missions. This repository documents my tran
 into cyber threat intelligence: hands-on labs, analysis write-ups, and notes, written as
 I learn.
 
-**LinkedIn:** [add your LinkedIn link]
+**LinkedIn:** (https://www.linkedin.com/in/arthur-nisbeth/)
 
 ## About Me
 I'm currently an OSINT Analyst at Amentum, where I produce threat information reports
