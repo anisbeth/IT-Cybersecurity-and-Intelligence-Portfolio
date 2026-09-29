@@ -1,7 +1,7 @@
 # Wireshark for Beginners: TCP/IP Protocol Fundamentals
 
 **Course:** Coursera Guided Project (September 2026)
-**Certificate:** [View verified certificate] https://coursera.org/share/76028b89a8156cd64a0ad1b2ba337f2e
+**Certificate:** [View verified certificate]((https://coursera.org/share/76028b89a8156cd64a0ad1b2ba337f2e))
 **Tools:** Wireshark 4.2.5, Ubuntu 22.04 (cloud lab desktop), Terminal, Firefox
 **My level:** First time using Wireshark
 
