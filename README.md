@@ -1,54 +1,8 @@
 # Arthur Nisbeth | Cyber Intelligence Portfolio
 
-Intelligence analyst with a decade of experience turning complex, multi-source information
-into clear, accurate analysis for decision-makers, first in the U.S. Army and now
-supporting federal national security missions. This repository documents my transition
-into cyber threat intelligence: hands-on labs, analysis write-ups, and notes, written as
-I learn.
+This repository documents my transition into cyber threat intelligence: hands-on labs, analysis write-ups, and notes, written as I learn.
 
 **LinkedIn:** (https://www.linkedin.com/in/arthur-nisbeth/)
-
-## About Me
-I'm currently an OSINT Analyst at Amentum, where I produce threat information reports
-assessing risks to U.S. critical infrastructure and national security interests. I also
-review OSINT analysis packages for DCSA compliance and help customers close analytical gaps.
-
-Before that, I supported DHS and FBI missions at GDIT and BAE Systems, conducting
-identity-based screening, investigative research across government and open-source
-databases, and SOP-driven reporting in high-volume, high-accuracy environments.
-
-My foundation comes from seven years as an Army all-source intelligence analyst (35F) and
-Intelligence Production Manager at Joint Base Lewis-McChord, in Korea, and at Aberdeen
-Proving Ground. In those roles I produced daily and weekly threat assessments, evaluated
-foreign weapons systems, and worked in joint and allied fusion cell environments.
-
-## Experience
-| Role | Organization | Years |
-|---|---|---|
-| OSINT Analyst | Amentum | 2026 – Present |
-| Intelligence Analyst | General Dynamics Information Technology | 2026 |
-| Intelligence Analyst | BAE Systems | 2025 |
-| Financial Analyst | 9th & Clinton | 2023 – 2025 |
-| All-Source Intelligence Analyst / Intelligence Production Manager | U.S. Army | 2013 – 2020 |
-
-## Education
-| Program | School | Status |
-|---|---|---|
-| M.S. Cyber Operations | University of Maryland Global Campus | In progress (2028) |
-| C.S.C. Artificial Intelligence and Data Analytics | Northern Virginia Community College | In progress (2027) |
-| B.S. Management Information Systems | University of Maryland Global Campus | Completed (2026) |
-| A.A.S. Intelligence Operations Studies | Cochise College | Completed (2024) |
-| A.S. Information Technology | Northern Virginia Community College | Completed (2022) |
-| All-Source Intelligence Analyst Course (35F) | Fort Huachuca | Completed (2013) |
-
-## Certifications
-| Certification | Status |
-|---|---|
-| Google Cybersecurity Professional Certificate (Coursera) | Completed (2026) |
-| Microsoft Cybersecurity Analyst Professional Certificate (Coursera) | Completed (2026) |
-| CompTIA Security+ | Planned (Nov 2026) |
-| CompTIA CySA+ | Planned (Mar 2027) |
-| EC-Council Certified Threat Intelligence Analyst (CTIA) | Planned (Dec 2027) |
 
 ## Featured Projects
 | Project | What It Shows |
