@@ -276,10 +276,10 @@ and isolate that computer, not just block the internet.
 ### Knowledge checks I answered
 - **What does a SYN flood look like?** High volume aimed at one destination. Partly right.
   I also learned the key sign is that the handshakes never complete.
-- **Would `||` show more or fewer packets than `&&`?** More, because OR is more inclusive. ✅
-- **Is the top talker automatically malicious?** No. ✅ With a hint, I identified the lab's
+- **Would `||` show more or fewer packets than `&&`?** More, because OR is more inclusive.
+- **Is the top talker automatically malicious?** No. With a hint, I identified the lab's
   screen stream as heavy but harmless.
-- **DoS or DDoS?** DoS, because there was one source (`192.168.1.56`). ✅
+- **DoS or DDoS?** DoS, because there was one source (`192.168.1.56`).
 
 ### Mistakes I made (and what fixed them)
 - I browsed before my capture was really recording, so my baseline had no DNS. I re-captured.
