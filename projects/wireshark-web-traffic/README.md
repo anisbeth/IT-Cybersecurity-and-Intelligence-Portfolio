@@ -214,12 +214,12 @@ none" rules out a cause, which is half of troubleshooting.
 - **Why do 8080 and `1f 90` mean the same thing?** I didn't know. I learned hex is just another
   way to write numbers, and analysts need it when Wireshark can't decode traffic.
 - **When does each filter type work?** Capture filters work during capture, display filters
-  after. ✅ I also learned capture filters can't be undone.
-- **Network or server issue?** Server. ✅ I first pointed to packet 658, but the proof is
+  after. I also learned capture filters can't be undone.
+- **Network or server issue?** Server. I first pointed to packet 658, but the proof is
   packet 597, where the server acknowledged my request.
-- **Why were the `example` lookups harmless?** I typed it without `.com`. ✅ The evidence:
+- **Why were the `example` lookups harmless?** I typed it without `.com`. The evidence:
   low volume, a known cause, and normal activity afterward.
-- **First two checks for "the internet is slow"?** RTT ✅. I picked handshakes second, but
+- **First two checks for "the internet is slow"?** RTT. I picked handshakes second, but
   retransmissions are the better pick because lost packets are what users feel as slowness.
 
 ### Mistakes I made (and what fixed them)
