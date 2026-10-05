@@ -4,15 +4,13 @@ This repository documents my transition into cyber threat intelligence: hands-on
 
 **LinkedIn:** (https://www.linkedin.com/in/arthur-nisbeth/)
 
-## Featured Projects
-| Project | What It Shows |
-|---|---|
-| [Wireshark: TCP/IP Fundamentals](projects/wireshark-tcp-ip/) | Packet capture, TCP handshake, HTTP vs. HTTPS, TLS, and spotting a hidden proxy through timing |
-
 ## All Projects
 | # | Project | Skills | Tools | Date |
 |---|---|---|---|---|
-| 1 | [Wireshark: TCP/IP Fundamentals](projects/wireshark-tcp-ip/) | Packet capture, IP/TCP/TLS analysis | Wireshark, Linux CLI | Sep 2026 |
+| P001 | [Wireshark: TCP/IP Fundamentals](projects/wireshark-tcp-ip/) | Packet capture, IP/TCP/TLS analysis | Wireshark, Linux CLI | Sep 2026 |
+| P002 | [Wireshark for Security: Detecting Network Anomalies](projects/wireshark-security-anomalies/) | Traffic baselining, SYN flood detection, evidence hashing | Wireshark, Ubuntu | Oct 2026 |
+| P003 | [Wireshark for Packet Capture: Analyzing Web Traffic](projects/wireshark-web-traffic/) | HTTP/DNS troubleshooting, capture filters, TCP performance analysis | Wireshark, Ubuntu, Chrome | Oct 2026 |
+| P004 | [TCPDump: Building a Logging Tool](projects/tcpdump-logging-tool/) | CLI packet capture, Bash scripting, log rotation, TLS decryption | tcpdump, Bash, Wireshark, Azure VM | Oct 2026 |
 
 ## Learning Roadmap
 My planned path from OSINT analysis to cyber threat intelligence. Each item will become a
