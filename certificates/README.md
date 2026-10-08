@@ -9,6 +9,6 @@
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| ** [Splunk Search Expert 101](https://coursera.org/share/efe5c4968588316abcb9657359f89c72)** | Coursera | 2026 |
-| ** [Splunk Search Expert 102](https://coursera.org/share/770a34da409941f16b403668b888be48)** | Coursera | 2026 |
-| ** [Splunk Search Expert 103](https://coursera.org/share/e020a575a009d05e108222c986859755)** | Coursera | 2026 |
+| [Splunk Search Expert 101](https://coursera.org/share/efe5c4968588316abcb9657359f89c72) | Coursera | 2026 |
+| [Splunk Search Expert 102](https://coursera.org/share/770a34da409941f16b403668b888be48) | Coursera | 2026 |
+| [Splunk Search Expert 103](https://coursera.org/share/e020a575a009d05e108222c986859755) | Coursera | 2026 |
